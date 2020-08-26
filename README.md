@@ -11,10 +11,12 @@ Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Fazendo o Bootcamp Gostack da **Rocketseat** :purple_heart:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeonardoCovelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/)](https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/) &nbsp; 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados 
+ <br/>
+ <br/>
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Covelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/)](https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/) &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-leonardocovelodapaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardocovelodapaz@gmail.com)](mailto:leonardocovelodapaz@gmail.com) &nbsp; 
-[![Rocketseat Badge](https://img.shields.io/badge/-LeonardoCovelo-blueviolet?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/leonardocovelodapaz)](https://app.rocketseat.com.br/me/leonardocovelodapaz)
+[![Rocketseat Badge](https://img.shields.io/badge/-Leonardo%20Covelo-6633cc?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/leonardocovelodapaz)](https://app.rocketseat.com.br/me/leonardocovelodapaz)
 
 ##
 
