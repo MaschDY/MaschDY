@@ -17,5 +17,5 @@ Sou um FullStack Developer :computer:
 
 ##
 
-![MaschDY's github stats](https://github-readme-stats.vercel.app/api?username=MaschDY&show_icons=true&hide=issues&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaschDY&layout=compact&theme=algolia)
+![MaschDY's github stats](https://github-readme-stats.vercel.app/api?username=MaschDY&show_icons=true&hide=issues&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaschDY&layout=compact&theme=vue-dark)
