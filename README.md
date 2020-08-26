@@ -1,9 +1,10 @@
-<img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQE_aum2tQW6dQ/profile-displaybackgroundimage-shrink_200_800/0?e=1603929600&v=beta&t=CtO4l3DdN6TTTEKGZHVShX-oUW0uBaiXC1wLvvRU9jw">
 
 
 # Leonardo Covelo
 
 ## Eae galera! 👋
+<img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
 
 Sou apaixonado por tecnologia e programação.
 Sou um FullStack Developer :computer:
