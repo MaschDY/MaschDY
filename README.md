@@ -6,11 +6,11 @@
 <img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
 
 Sou apaixonado por tecnologia e programação.
-Sou um FullStack Developer :computer:
+Sou Developer :computer:
 
  :rocket:  &nbsp; Fazendo o Bootcamp Gostack da **Rocketseat** :purple_heart:
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados 
+ <br/> :computer: &nbsp; Habilidades: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados, nas horas vagas gosto de desenvolver jogos 🎮
  <br/>
  <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Covelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/)](https://www.linkedin.com/in/leonardo-covelo-da-paz-610a8212a/) &nbsp; 
