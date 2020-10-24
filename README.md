@@ -2,7 +2,7 @@
 
 # Leonardo Covelo
 
-## Eae galera! 👋
+## Hello World! 👋
 <img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
 
 Sou apaixonado por tecnologia e programação.
