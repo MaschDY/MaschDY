@@ -5,8 +5,8 @@
 ## Hello World! 👋
 <img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
 
-Sou apaixonado por tecnologia e programação.
 Sou Developer :computer:
+<br/> Apaixonado por tecnologia e Desenvolvimento.
 
  :rocket:  &nbsp; Fazendo o Bootcamp Gostack da **Rocketseat** :purple_heart:
  <br/> :computer: &nbsp; Habilidades: ReactJS, Node.js, React Native & Typescript
