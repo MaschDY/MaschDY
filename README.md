@@ -1,5 +1,3 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQE_aum2tQW6dQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1604534400&v=beta&t=8ROeGhIN8U8Z0HEB7NruGW6xnXYe6hYxdYRm0TNRDcI">
-
 # Leonardo Covelo
 
 ## Hello World! 👋
