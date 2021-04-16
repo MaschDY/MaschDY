@@ -3,7 +3,7 @@
 ## Hello World! 👋
 <img width="auto" src="https://github.githubassets.com/images/mona-whisper.gif">
 
-Sou Developer :computer:
+Sou Desenvolvedor :computer:
 <br/> Apaixonado por tecnologia e Desenvolvimento.
 
  :rocket:  &nbsp; Fazendo o Bootcamp Gostack da **Rocketseat** :purple_heart:
