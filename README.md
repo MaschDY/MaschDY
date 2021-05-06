@@ -6,7 +6,7 @@
 Sou Desenvolvedor :computer:
 <br/> Apaixonado por tecnologia e Desenvolvimento.
 
- :rocket:  &nbsp; Fazendo o Bootcamp Gostack da **Rocketseat** :purple_heart:
+ :rocket:  &nbsp; Alumni na **Rocketseat** :purple_heart:
  <br/> :computer: &nbsp; Habilidades: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados, nas horas vagas gosto de desenvolver jogos 🎮
  <br/>
